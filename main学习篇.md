@@ -26,10 +26,19 @@ npm install css-loader style-loader
 * vue-svgicon https://www.npmjs.com/package/vue-svgicon
 * vue-svg-sprite https://www.npmjs.com/package/vue-svg-sprite
 
-https://www.w3cplus.com/svg/styling-svg-use-content-css.html
-https://github.com/isboyjc/blog/issues/12
-https://css-tricks.com/a-font-like-svg-icon-system-for-vue/
+[1](https://www.w3cplus.com/svg/styling-svg-use-content-css.html)
 
+[2](https://github.com/isboyjc/blog/issues/12)
+
+[3](https://css-tricks.com/a-font-like-svg-icon-system-for-vue/)
+
+[4](https://developer.mozilla.org/en-US/docs/Web/SVG)
+
+[5](https://developer.mozilla.org/en-US/docs/Web/SVG/Element/use)
+
+[6](https://css-tricks.com/svg-sprites-use-better-icon-fonts/)
+
+[7](https://webpack.docschina.org/loaders/svg-inline-loader/)
 
 # 多层嵌套传递
 https://juejin.cn/post/6844903828098138120
